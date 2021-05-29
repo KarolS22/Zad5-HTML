@@ -1,0 +1,18 @@
+.menu {
+    position: absolute;
+    left:-100px;
+    top:-100px;
+    background-color: lightslategray;
+    font-size:16px;
+}
+#przycisk{
+    border:0.5px solid black;
+	background-color:rgb(26, 187, 61);
+    width: 85px;
+    position: fixed;
+    left: 47%;
+    top:30%;
+}
+#przycisk:hover{
+    cursor:pointer;
+}
